@@ -19,5 +19,5 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD. student in the <a href='stat.missouri.edu/'>Department of Statistics</a> at the University of Missouri. 
 
-I work with Scott H. Holan on problems in survey statistics and small area estimation. 
+I work with  <a href='https://holans.mufaculty.umsystem.edu/'>Scott H. Holan</a> on problems in survey statistics and small area estimation. 
 
