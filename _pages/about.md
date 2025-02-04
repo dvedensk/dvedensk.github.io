@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth-year PhD. student in the <a href='stat.missouri.edu/'>Department of Statistics</a> at the University of Missouri.
+I am a fifth-year PhD. student in the <a href="stat.missouri.edu/">Department of Statistics</a> at the University of Missouri.
 
 I work with <a href='https://holans.mufaculty.umsystem.edu/'>Scott H. Holan</a> on problems in survey statistics and small area estimation.
 I am interested in Bayesian methods for dependent data, particularly for longitudinal, complex surveys and environmental applications.
