@@ -9,7 +9,7 @@
   contents:
     - title: PhD., Statistics
       institution: University of Missouri
-      year: Expected 2025
+      year: 2025
     - title: M.A., Statistics
       institution: University of Missouri
       year: 2022
@@ -20,9 +20,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Fellow
+      institution: Simon Fraser University
+      year: 2025-Current
     - title: Graduate Research Assistant
       institution: University of Missouri
-      year: 2021-Current
+      year: 2021-2025
     - title: Graduate Teaching Assistant
       institution: University of Missouri
       year: 2020-2021

@@ -1,9 +1,21 @@
-github_users:
-  - dvedensk
-
-repo_description_lines_max: 2
+github_username: dvedensk
 
 github_repos:
-  - dvedensk/dvedensk.github.io
-  - dvedensk/MRP
-
+  - name: NPS_SAE
+    url: https://github.com/dvedensk/NPS_SAE
+    description: Code and simulation materials for comparing nonprobability-sample methods in small area estimation.
+    language: R
+    language_color: '#198CE7'
+  - name: bayesian_unit_level_categorical
+    url: https://github.com/dvedensk/bayesian_unit_level_categorical
+    description: Code for Bayesian Unit-level Modeling of Categorical Survey Data with a Longitudinal Design.
+    language: R
+    language_color: '#198CE7'
+  - name: MRP
+    url: https://github.com/dvedensk/MRP
+    description: Multilevel regression with poststratification for modeling poverty in Minnesota.
+  - name: dvedensk.github.io
+    url: https://github.com/dvedensk/dvedensk.github.io
+    description: Source code for this academic website, built with the al-folio Jekyll theme.
+    language: HTML
+    language_color: '#e34c26'
