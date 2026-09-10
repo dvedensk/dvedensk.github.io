@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth-year PhD. student in the <a href="https://stat.missouri.edu/">Department of Statistics</a> at the University of Missouri.
+I am a postdoctoral fellow at Simon Fraser University, where I work with <a href="https://canssi.ca/don-estep/">Don Estep</a> and <a href="http://people.stat.sfu.ca/~dbingham/">Derek Bingham</a> on inverse problems and Bayesian calibration. 
+Prior to that, I completed my PhD at the University of Missouri, where I worked with <a href="https://holans.mufaculty.umsystem.edu/">Scott H. Holan</a> on problems in survey statistics and small area estimation.
 
-I work with <a href='https://holans.mufaculty.umsystem.edu/'>Scott H. Holan</a> on problems in survey statistics and small area estimation.
 I am interested in Bayesian methods for dependent data, particularly for longitudinal, complex surveys and environmental applications.
